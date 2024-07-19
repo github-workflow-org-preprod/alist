@@ -80,7 +80,7 @@ English | [中文](./README_cn.md)| [日本語](./README_ja.md) | [Contributing]
 - [x] Easy to deploy and out-of-the-box
 - [x] File preview (PDF, markdown, code, plain text, ...)
 - [x] Image preview in gallery mode
-- [x] Video and audio preview, support lyrics and subtitles
+- [x] Video and audio preview, support lyrics and subtitles  
 - [x] Office documents preview (docx, pptx, xlsx, ...)
 - [x] `README.md` preview rendering
 - [x] File permalink copy and direct file download
